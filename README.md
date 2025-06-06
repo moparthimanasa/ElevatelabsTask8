@@ -1,5 +1,3 @@
-
-
 # ElevatelabsTask8
 # 📘 Simple Blog Layout – Bootstrap 5
 
